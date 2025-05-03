@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db786b94e250b3e46bee4e406c307bce, type: 3}
+  m_Name: CharacterPlayerSecondary
+  m_EditorClassIdentifier: 
+  UniqueId: a63e11e3-1801-4a16-8136-bb7ebba5488d
+  Name:
+    IsLocalized: 0
+    Unlocalized: Lucia Gutierrez
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  CodeName:
+    IsLocalized: 0
+    Unlocalized: 
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  Name_DEPRECATED: 
+  CodeName_DEPRECATED: 
+  Prefab: {fileID: 5960251197409231341, guid: 9a3f8742d08e7c9478bc38ddd87483b3, type: 3}
+  InitialInventorySize: 8
+  InitialInventory:
+  - Item: {fileID: 11400000, guid: a901d2e6294c1574dbccbee49b37812a, type: 2}
+    Count: 1
+    SecondaryCount: 30
+    Status: 0
+  - Item: {fileID: 11400000, guid: 6502a202f230d7547b8b4ade1ce80eac, type: 2}
+    Count: 1
+    SecondaryCount: 1
+    Status: 1
+  - Item: {fileID: 11400000, guid: 43713080a20059f4a9e5783dd395e4f7, type: 2}
+    Count: 1
+    SecondaryCount: 15
+    Status: 1
+  - Item: {fileID: 11400000, guid: 328cf3d54a3619b4d9c00d4f63f17d82, type: 2}
+    Count: 1
+    SecondaryCount: 0
+    Status: 1
+  - Item: {fileID: 11400000, guid: a5398a73af1b8a143a2f4e30e2409b2f, type: 2}
+    Count: 50
+    SecondaryCount: 0
+    Status: 1
+  InitialStorageBox:
+    Label:
+      IsLocalized: 0
+      Unlocalized: 
+      Localized:
+        m_TableReference:
+          m_TableCollectionName: 
+        m_TableEntryReference:
+          m_KeyId: 0
+          m_Key: 
+        m_FallbackState: 0
+        m_WaitForCompletion: 0
+        m_LocalVariables: []
+    Name_DEPRECATED: 
+    Capacity: 0
+    Items: []
+  InitialDocuments: []
+  InitialMaps: []
+  InitialEquipment: []
+  InitialAttributes: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e179776e1f16fa4a9061e5f87bc310d, type: 3}
+  m_Name: Coins_100
+  m_EditorClassIdentifier: 
+  UniqueId: 33dfb8c1-31eb-424a-a79c-b3ebd3a2be03
+  Image: {fileID: 21300000, guid: 2a4568dd9940d5747ab6a2d94a38c6ef, type: 3}
+  ExamineModel: {fileID: 0}
+  Name:
+    IsLocalized: 0
+    Unlocalized: 100 Coins
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  Description:
+    IsLocalized: 0
+    Unlocalized: 
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  InventoryAction: 0
+  Flags: 4
+  DropPrefab: {fileID: 0}
+  MaxStackSize: 0
+  m_OnUseAudioClip: {fileID: 0}
+  Name_DEPRECATED: 
+  Description_DEPRECATED: 
+  m_Attribute: {fileID: 11400000, guid: d5aa950f8c5286041a48dd6c694d234a, type: 2}
+  m_Operation: 0
+  m_Amount: 100
+  references:
+    version: 2
+    RefIds: []

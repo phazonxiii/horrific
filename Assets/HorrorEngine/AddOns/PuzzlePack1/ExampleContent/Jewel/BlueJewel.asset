@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58e5e9a2ec5a7634ebab86edd9f5f4aa, type: 3}
+  m_Name: BlueJewel
+  m_EditorClassIdentifier: 
+  UniqueId: f8f83f70-1d2e-4a92-a054-6ff32a906bbd
+  Image: {fileID: 21300000, guid: 423308c4ef909a14f94af0f8ccc63889, type: 3}
+  ExamineModel: {fileID: 7549027438227226500, guid: 79606b7bdeb2d8144a7a36da88910b1e, type: 3}
+  Name:
+    IsLocalized: 0
+    Unlocalized: Blue Jewel
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  Description:
+    IsLocalized: 0
+    Unlocalized: A blue gem, maybe a tanzanite
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  InventoryAction: 1
+  Flags: 176
+  DropPrefab: {fileID: 0}
+  MaxStackSize: 0
+  m_OnUseAudioClip: {fileID: 0}
+  Name_DEPRECATED: 
+  Description_DEPRECATED: 
+  references:
+    version: 2
+    RefIds: []

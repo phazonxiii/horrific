@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fa2039eff306cf24ba9e1992ff940910
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244541
+  packageName: Retro Horror Template
+  packageVersion: 4.0.2
+  assetPath: Assets/HorrorEngine/Scripts/Editor/SaveDataEditor.cs
+  uploadId: 753407

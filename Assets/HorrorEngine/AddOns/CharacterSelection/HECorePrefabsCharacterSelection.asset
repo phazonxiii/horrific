@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2500842d751b590448dddff9bc2b5189, type: 3}
+  m_Name: HECorePrefabsCharacterSelection
+  m_EditorClassIdentifier: 
+  m_Prototype: {fileID: 11400000, guid: b91238578c4a8c54da94d789e9fdc377, type: 2}
+  m_GameManager: {fileID: 8607317457280918925, guid: 0ccfde271497f6e4d9acf538a8c4e4d8, type: 3}
+  m_CameraSystem: {fileID: 0}
+  m_CustomObjects: []
+  m_Inventory: {fileID: 0}
+  m_Document: {fileID: 0}
+  m_DocumentList: {fileID: 0}
+  m_Dialog: {fileID: 0}
+  m_Choices: {fileID: 0}
+  m_SaveGame: {fileID: 0}
+  m_Item: {fileID: 0}
+  m_ItemContainer: {fileID: 0}
+  m_ExamineItem: {fileID: 0}
+  m_ExamineItemRenderer: {fileID: 0}
+  m_Pause: {fileID: 0}
+  m_Map: {fileID: 0}
+  m_MapRenderer: {fileID: 0}
+  m_GameOver: {fileID: 0}
+  m_CinematicPlayer: {fileID: 0}
+  m_InteractionPrompt: {fileID: 0}
+  m_Fade: {fileID: 0}
+  m_LetterBox: {fileID: 0}
+  m_CustomUI: []

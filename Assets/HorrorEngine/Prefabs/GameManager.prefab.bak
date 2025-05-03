@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1654157888941685904
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1654157888941685905}
+  - component: {fileID: 1654157888941685906}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1654157888941685905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1654157888941685904}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1654157888941685906
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1654157888941685904}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6bc1c23e40f04041838df542be9b892, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerName: PlayerName
+  Player: {fileID: 0}
+  Characters:
+  - {fileID: 11400000, guid: d75291cfb943ce64fa59970ae20e859b, type: 2}
+  InventorySetup:
+    AutoStack: 1
+    Combinations:
+    - {fileID: 11400000, guid: 8d850626663147942bcf0eb90aff11fe, type: 2}
+    - {fileID: 11400000, guid: 7ff8feb1e2abf0746bdd60574177d9f6, type: 2}
+    OnFullDialog:
+      m_Lines:
+      - Delay: 0
+        Text: I can't carry any more items
+        Clip: {fileID: 0}
+  SharedStorageBox: 0
+  ItemDatabase: {fileID: 11400000, guid: 4223c20f119426f43bfb7ceffcabd1c6, type: 2}
+  DocumentDatabase: {fileID: 11400000, guid: 30ccee90e9fe6074fbbe73a9d1add4a2, type: 2}
+  MapDatabase: {fileID: 11400000, guid: c423acb542438c44db88c2dc29c811fb, type: 2}
+  SpawnableDatabase: {fileID: 11400000, guid: 01b253ca63b3e3441acfd87520c6fe2c, type: 2}
+  OnPlayerRegistered:
+    m_PersistentCalls:
+      m_Calls: []

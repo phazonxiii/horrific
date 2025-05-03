@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bedd714bcd1fc194486bb7af5344687f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 23800000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 244541
+  packageName: Retro Horror Template
+  packageVersion: 3.1
+  assetPath: Assets/HorrorEngine/ExampleContent/Scenes/SampleScene/NavMesh.asset
+  uploadId: 729523

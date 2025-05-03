@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58e5e9a2ec5a7634ebab86edd9f5f4aa, type: 3}
+  m_Name: PianoSheetHint
+  m_EditorClassIdentifier: 
+  UniqueId: 317c20b1-e42f-4e85-b224-31c1546c031e
+  Image: {fileID: 21300000, guid: 8d5eb623c245c485b9a421499a27ce3d, type: 3}
+  ExamineModel: {fileID: 7549027438227226500, guid: f4147796bd843a042b794069f9d72aae, type: 3}
+  Name:
+    IsLocalized: 0
+    Unlocalized: Piano Note
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  Description:
+    IsLocalized: 0
+    Unlocalized: 
+    Localized:
+      m_TableReference:
+        m_TableCollectionName: 
+      m_TableEntryReference:
+        m_KeyId: 0
+        m_Key: 
+      m_FallbackState: 0
+      m_WaitForCompletion: 0
+      m_LocalVariables: []
+  InventoryAction: 1
+  Flags: 144
+  DropPrefab: {fileID: 0}
+  MaxStackSize: 0
+  m_OnUseAudioClip: {fileID: 0}
+  Name_DEPRECATED: 
+  Description_DEPRECATED: 
+  references:
+    version: 2
+    RefIds: []

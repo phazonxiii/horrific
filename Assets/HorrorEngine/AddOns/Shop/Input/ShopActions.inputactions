@@ -1,0 +1,54 @@
+{
+    "name": "ShopActions",
+    "maps": [
+        {
+            "name": "Shop",
+            "id": "1190dd10-1854-4da6-af6c-671aa7abd345",
+            "actions": [
+                {
+                    "name": "NextCategory",
+                    "type": "Button",
+                    "id": "42b7fe22-f59d-43dd-a257-d8a1ac011788",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "PrevCategory",
+                    "type": "Button",
+                    "id": "6e3befad-aeb6-4406-90be-417702acb255",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "81e91ed2-7d57-4ee3-bdbe-a180181eb59d",
+                    "path": "<Gamepad>/rightShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "NextCategory",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "30d6c31c-ff37-47ee-882c-89baec4c81d6",
+                    "path": "<Gamepad>/leftShoulder",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrevCategory",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
